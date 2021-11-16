@@ -1,0 +1,190 @@
+body
+{
+    background-color: rgb(224, 224, 224);
+}
+
+.overlay
+{
+    background-color:rgba(0, 0, 0, 0.6);
+    height: 100%; 
+}
+
+nav ul li
+{
+   
+    margin: 20px; 
+  
+   
+}
+.navbar-light .navbar-nav .active>.nav-link
+{
+   color: white;
+}
+nav a
+{
+    color:white;
+}
+
+ header
+{
+    background-image:url('imges/intro-bg.jpg');
+    background-size: cover;
+   
+
+    height: 100vh;
+    
+}
+.border
+{
+    background-color: #007bff;
+    width: 8rem;
+    font-size: 30px;
+    
+}
+.name
+{
+    position: absolute;
+    text-align: center;
+    left: 500px;
+    top: 400px;
+    font-size: 70px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.name2
+{
+    position: absolute;
+    text-align: center;
+    left: 550px;
+    top: 500px;
+    font-size: 60px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.detalis h6
+{
+    font-size: 1rem;
+    padding-bottom: .8rem;
+
+}
+i
+{
+    color: #007bff;
+    padding-bottom: 1rem;
+}
+.jopnan
+{
+    background-image: url(imges/counters-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+.overlay2{
+    background-color: rgba(0, 81, 255, 0.5);
+}
+.jopnan i
+{
+    color: white;
+}
+.jopnan  p
+{
+    color: white;
+}
+.jopnan h3
+{
+    color: white;
+}
+.portfolio h5
+{
+    font-size: 1.5rem;
+}
+.portfolio
+{
+  
+    background-attachment: fixed;
+    background-size: cover;
+}
+.layer
+{
+    background-color: aquamarine;
+}
+.photo img
+{
+    border-radius: 50%;
+
+}
+
+
+
+.icon-service
+{
+    float: right;
+}
+
+.border2
+{
+    background-color: #007bff;
+    width: 30rem;
+ 
+    
+}
+
+.pho
+{
+
+    background-image: url(imges/overlay-bg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.layslide
+{
+  
+    background-color
+
+    height: 100%;
+}
+.pp img
+{
+    border-radius: 50%;
+}
+.card-title a
+{
+    background-color:white;
+    color: black;
+    border: none;
+
+}
+.message
+{
+    background-color: #0e30f0;
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+}
+.message h2 
+{
+    color: white;
+}
+.message p 
+{
+    color: white;
+}
+.message ul
+{
+    list-style-type: none;
+    color: white;
+}
+.message i
+{
+    color: white;
+}
+
+.ml{
+    background-color: rgba(00, 70, 255, .5);
+}
